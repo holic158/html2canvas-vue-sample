@@ -50,7 +50,7 @@ export default {
         document.getElementById("canvas_div").src = myImage;
 
         
-        console.log('222222222');
+        console.log('2222222 22');
         console.log('222222222');
         console.log('222222222');
         downloadURI(myImage, "저장이미지이름.png") 
